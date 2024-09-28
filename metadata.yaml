@@ -1,5 +1,8 @@
 _repo: Those-barren-leaves_74437
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74437-h/images/cover.jpg
 creator:
   author:
     agent_name: Huxley, Aldous
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/780
     wikipedia: https://en.wikipedia.org/wiki/Aldous_Huxley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74437#Those-barren-leaves
 gutenberg_issued: '2024-09-18'
 gutenberg_type: Text
 identifiers:
